@@ -3,11 +3,6 @@
 ## Lab Mission
 Learn how to implement IAM features for AWS accounts to provide experience and a better understanding of the IAM concept.
 
-## Lab Duration
-20–40 minutes
-
-## Requirements
-- Basic knowledge of AWS
 
 ## Resources
 - **Environment & Tools**
